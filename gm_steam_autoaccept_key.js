@@ -3,9 +3,11 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Automatically accept SSA and click continue on Steam key registration page
-// @author       You
+// @author       Kenneth Roecks
 // @match        https://store.steampowered.com/account/registerkey*
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/kroecks/gm_steam_autoaccept_key/main/gm_steam_autoaccept_key.js
+// @downloadURL  https://raw.githubusercontent.com/kroecks/gm_steam_autoaccept_key/main/gm_steam_autoaccept_key.js
 // ==/UserScript==
 
 (function() {
